@@ -2,7 +2,7 @@ Smart Shop ML
 
 Customer Purchase Prediction using Machine Learning
 
-Python 3.9+ | Scikit-Learn | Status: Completed | License: MIT
+Python 3.9+ | Scikit-Learn | Status: Completed |
 
 ⸻
 
